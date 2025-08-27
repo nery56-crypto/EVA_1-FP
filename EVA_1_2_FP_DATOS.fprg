@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_1_2_FP_DATOS"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:11:00 p. m."/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLU1HRUdSM0E7MjAyNS0wOC0yNjswNTowNDowMiBwLiBtLjsyODUz"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLU1HRUdSM0E7MjAyNS0wOC0yNjswNToxMTowMCBwLiBtLjsxOzI5NTc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;ALEJANDRO NERY&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

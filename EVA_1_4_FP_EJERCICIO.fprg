@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_1_4_FP_EJERCICIO"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:56:12 p. m."/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLU1HRUdSM0E7MjAyNS0wOC0yNjswNTo0NDozMCBwLiBtLjsyODU4"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLU1HRUdSM0E7MjAyNS0wOC0yNjswNTo1NjoxMiBwLiBtLjsxOzI5Njk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO:&quot;" newline="False"/>
+            <output expression="&quot;Chofer&quot;" newline="True"/>
+            <output expression="&quot;SALARIO:&quot;" newline="False"/>
+            <output expression="7000" newline="True"/>
+            <output expression="&quot;HORAS A LA SEMANA:&quot;" newline="False"/>
+            <output expression="20" newline="True"/>
+            <output expression="&quot;REQUIERE INGLES:&quot;" newline="False"/>
+            <output expression="&quot;false&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
